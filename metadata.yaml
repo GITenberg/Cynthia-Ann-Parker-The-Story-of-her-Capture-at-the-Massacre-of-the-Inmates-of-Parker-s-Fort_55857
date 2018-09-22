@@ -1,11 +1,16 @@
 _repo: Cynthia-Ann-Parker-The-Story-of-her-Capture-at-the-Massacre-of-the-Inmates-of-Parker-s-Fort_55857
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55857-h/images/cover.jpg
 creator:
   author:
     agent_name: DeShields, James T.
     gutenberg_agent_id: '48553'
     url: http://www.gutenberg.org/2009/agents/48553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55857#Cynthia-Ann-Parker-The-Story-of-her-Capture-at-the-Massacre-of-the-Inmates-of-Parker-s-Fort
 gutenberg_issued: '2017-10-31'
 gutenberg_type: Text
 identifiers:
